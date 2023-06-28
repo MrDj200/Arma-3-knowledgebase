@@ -2,7 +2,7 @@
 ---
 title: "Arma 3 - Basic Medical in ACE"
 ---
-flowchart
+flowchart TD
 	977290(["Unresponsive patient"]) --> 289944{"Is their body ragdolled or limp?"}
 	289944 -->|"Yes"| 227197("Patient ded")
 	289944 -->|"No"| 335680{"Lost more than #quot;some#quot; blood?"}
