@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0aaeb953c5d4f62f","x":-367,"y":-299,"width":250,"height":60,"type":"text","text":"ded?\n"},
+		{"id":"40ffb6dc5acd20db","x":-367,"y":20,"width":250,"height":60,"type":"text","text":"no\n"}
+	],
+	"edges":[
+		{"id":"545e8dbb9de11ee5","fromNode":"0aaeb953c5d4f62f","fromSide":"bottom","toNode":"40ffb6dc5acd20db","toSide":"top","label":"fuck"}
+	]
+}
